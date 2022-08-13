@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c541ccfc-b23e-4e74-b189-72de1889db13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2D4tzcXrMQNWO5MHnVf5PW2xzYe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.bot">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="up_or_down" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GIO\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="up_or_down" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.bot" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c541ccfc-b23e-4e74-b189-72de1889db13" name="Default Changelist" comment="" />
+      <created>1659970448329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659970448329</updated>
+      <workItem from="1659970450928" duration="6253000" />
+      <workItem from="1659979482099" duration="983000" />
+      <workItem from="1659980504169" duration="1673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1659970592559">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/823.-1080.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1659970592559" />
+    <state x="2654" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1659979809648">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="2654" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/823.-1080.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1659979809648" />
+    <state x="2521" y="292" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1659979886089">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="2521" y="292" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/823.-1080.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1659979886089" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1659984247820">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/823.-1080.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1659984247820" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1659984247820">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/823.-1080.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1659984247820" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1659984247820">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/823.-1080.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1659984247820" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1659984247820">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/823.-1080.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1659984247820" />
+    <state x="2381" y="167" key="SettingsEditor" timestamp="1659981321471">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="167" key="SettingsEditor/0.0.1920.1040/823.-1080.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1659981321471" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/up_or_down$bot.coverage" NAME="bot Coverage Results" MODIFIED="1659981535117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/up_or_down$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1659970617071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
